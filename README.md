@@ -28,6 +28,9 @@ __Check out [the wiki](https://github.com/l3iggs/docker-owncloud/wiki)__ for som
  - Contacts
  - Documents
  - Gallery
+ - Mozilla Sync
+ - Notes
+ - News
 - Or install your own 3rd party apps
 
 ### Usage
